@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org/"
-title = "Bigspring Hugo"
+baseURL = "/"
+title = "Inspired.digital"
 theme = "bigspring"
 languageName = "En"
 languageCode = "en-us"
@@ -127,7 +127,7 @@ enable = true
 label = "Get Started"
 link = "contact"
 
-  
+
 ############################# social site ########################
 [[params.social]]
 title = "facebook"
